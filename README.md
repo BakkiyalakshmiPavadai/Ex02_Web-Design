@@ -19,34 +19,32 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```<!DOCTYPE html>
+```
 <html>
-<title>sample webpage</title>
-<head>   <h1 align="centre"> Saveetha Engineering College</h1>
+<head>
+<title>Saveetha Engineering College</title>
 </head>
-<body bgcolor=aqua>
-    <p style="text-align:centre"></p>
-    <hr text-decoration-line:underline;
-    text-decoration-thickness:3px>
-<ol style=list-style-type:upper-alpha>
-    <li>Agriculture Engineering</li>
-    <li>Computer Science & Engineering</li>
-    <li>Information Technology</li>
-    <li>Data Science</li>
-    <ul style=list-style-type:disc>
-        <li>Artificial Intelligence-Machine Learning</li>
-        <li>Artificial Intelligence-Data Science</li>
-        <li>Internet of Thinks</li>
-        </ul>
-        <li>Electronics & Communication Engineering</li>
-        <li>Electrical & Electronics Engineering</li>
-        <li>Mechanical Engineering</li>
-    </body>
-    </html>
+<body bgcolor="pink" text-"red">
+<h1 align:"centre">Saveetha Engineering College</h1>
+<hr size="8" color="blue">
+<ol type="A">
+<li>Agriculture Engineering</li>
+<li>Computer Science Engineering</li>
+<li>Information Technology</li>
+<li>Data Science</li>
+<ul type="disc">
+<li>Artificial Intelligence-Data Science</li>
+<li>Attificial Intelligence-Machine Learning</li>
+<li>Internet of things</li>
+</ul>
+<li>Electrical & Electronic Engineering</li>
+<li>Electronic Communication Engineering</li>
+<li>Mechanical Engineering</li>
+</body>
+</html>
 ```
 ## OUTPUT
-![Screenshot (23)](https://user-images.githubusercontent.com/127816647/229268967-cb77923f-bd35-4498-ac9b-1c2654d34143.png)
-
+![Screenshot (22)](https://user-images.githubusercontent.com/127816647/229352260-3588725f-0f87-4811-b2ef-fb4b0ed0bb28.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
